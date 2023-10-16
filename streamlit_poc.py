@@ -6,5 +6,5 @@ st.text("🐔 Omega 3 and Blueberry")
 st.text("🥑 Bread Jam with Avocado")
 st.text("🍞 Poha")
 
-streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+st.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
